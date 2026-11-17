@@ -1,3 +1,5 @@
+> **This repository is no longer maintained.** It has been archived by Shopify and receives no updates or security fixes.
+
 # ActiveRecord Cloud Spanner Adapter
 
 [Google Cloud Spanner](https://cloud.google.com/spanner) adapter for ActiveRecord.
